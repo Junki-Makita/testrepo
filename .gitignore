@@ -1,1 +1,3 @@
 dum*
+*.data
+!final.data
